@@ -23,3 +23,7 @@ Figure 1 below shows the parameters included in the final database. As part of t
 ![Figure 1](Images/Columns.PNG) | ![SQL](Images/SQL_flights_code.PNG)                                                             
 
 
+**Example Data** |
+------------------
+![Data]Data_output.PNG
+
