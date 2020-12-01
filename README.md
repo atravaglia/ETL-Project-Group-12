@@ -25,5 +25,5 @@ Figure 1 below shows the parameters included in the final database. As part of t
 
 **Example Data Output** 
 ------------------
-![Data](Data_output.PNG)
+![Data](Images/Data_output.PNG)
 
