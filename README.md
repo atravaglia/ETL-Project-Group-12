@@ -20,4 +20,4 @@ Figure 1 below shows the parameters included in the final database. As part of t
 
 **Figure 1** 	      | **SQL**
 --------------------- | ---------------------
-![SumTable](Images/Columns.png) | ![HistGraph](Images/SQL_flights_code.png)
+![Screenshot](Images/Columns.png) | ![Screenshot](Images/SQL_flights_code.png)
