@@ -17,3 +17,7 @@ It should be noted that the 2015 data required substantial manipulation as only 
 # Load
 The final step in the ETL process consisted of loading the data into a final database that can be used for future analyses. Various databases, both relational (SQL) and non-relational (MongoDB), were considered. Ultimately, pgAdmin/PostgresSQL was selected as the most suitable production database for this application.
 Figure 1 below shows the parameters included in the final database. As part of the manipulation of the original data, a unique ID for each flight was created through concatenating month, day, flight number and tail number into a single tag. The same airplane may fly the same route multiple days per year, so organizing the data this way ensured that each cancelled flight had a unique ID. 
+
+**Figure 1** 	      | **SQL**
+--------------------- | ---------------------
+![SumTable](Images/Columns.png) | ![HistGraph](Images/SQL_flights_code.png)
