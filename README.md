@@ -1,3 +1,6 @@
+# Group 12 ETL Project
+----------------------
+
 # Introduction
 
 Due to the ramifications of the ongoing COVID-19 pandemic on the global airline industry, our team evaluated the number of flight cancellations. 
@@ -27,3 +30,12 @@ Figure 1 below shows the parameters included in the final database. As part of t
 ------------------
 ![Data](Images/Data_output.PNG)
 
+## Contributors
+
+[Lydia Field](https://github.com/lydiapf): lydia291@gmail.com
+
+[Rodrigo Reyes](https://github.com/rodking96): rodrigoreyes96@gmail.com
+
+[Alessandro Travaglia](https://github.com/atravaglia) : atravaglia@gmail.com
+
+UNC Boot Camp 2020
