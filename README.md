@@ -3,7 +3,7 @@
 Due to the ramifications of the ongoing COVID-19 pandemic on the global airline industry, our team evaluated the number of flight cancellations. 
 This project compared flight cancellations on domestic flights in the United States for 2015 and 2020. The associated two databases were presented in csv format and the source data was originally collected from the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics. The datasets used for this project were obtained from the public platform Kaggle and can be retrieved at these links:
 
-https://www.kaggle.com/akulbahl/covid19-airline-flight-delays-and-cancellations
+https://www.kaggle.com/akulbahl/covid19-airline-flight-delays-and-cancellations <br/>
 https://www.kaggle.com/akulbahl/covid19-airline-flight-delays-and-cancellations 
 
 # Project Steps
