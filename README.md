@@ -20,4 +20,4 @@ Figure 1 below shows the parameters included in the final database. As part of t
 
 **Figure 1** 	      | **SQL**
 --------------------- | ---------------------
-![Screenshot](Images/Columns.png) | ![Screenshot](Images/SQL_flights_code.png)
+![test](Images/Columns.png) | ![test](Images/SQL_flights_code.png)
